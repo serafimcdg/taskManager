@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "postgres",
-    "password": "{senha_db}",
-    "database": "{nome_db}",
+    "password": "senha_db",
+    "database": "task_manager_db",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
